@@ -1,6 +1,6 @@
 # Packing Challenge
 
-Here you will find the packinging challenge developed in Java programming language, it was used the library `JUnit` for unit tests, it was used Maven, so for you to run this code is necessary to convert to a Maven project, sinc just the code is on Github.
+Here you will find the packinging challenge developed in Java programming language, it was used the library `JUnit` for unit tests, it was used Maven, so for you to run this code is necessary to convert to a Maven project, since just the code is on Github.
 
 ### Important points
 
